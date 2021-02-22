@@ -1,0 +1,27 @@
+p{
+    background-color: lavenderblush;
+    padding: 10px;
+    margin: 1%;
+    width: 20%;
+}
+
+p::first-letter{
+    color:red;
+    font-size: 1.8em;
+    font-weight: bolder;
+}
+
+#egy{
+position: absolute;
+left: 17%;
+}
+
+#ketto{
+position: absolute;
+left: 40%;
+}
+
+#harom{
+position: absolute;
+left: 63%;
+}
